@@ -1,0 +1,773 @@
+ModelID,primary_disease_renamed,area_under_curve
+ACH-000464,Glioma,11.407
+ACH-000028,Breast Cancer,12.106
+ACH-000351,Gastric Cancer,11.458
+ACH-000026,Bladder Cancer,10.452
+ACH-000802,Bladder Cancer,11.41
+ACH-000792,Kidney Cancer,9.9828
+ACH-000212,Breast Cancer,12.001
+ACH-000142,Bladder Cancer,10.293
+ACH-000174,Thyroid Cancer,11.496
+ACH-000200,Glioma,12.958
+ACH-000348,Melanoma,11.178
+ACH-000011,Bladder Cancer,9.5759
+ACH-000105,ALL,7.8781
+ACH-000643,Breast Cancer,9.6965
+ACH-000543,Glioma,12.4
+ACH-000370,Glioma,12.395
+ACH-000807,Glioma,12.704
+ACH-000686,Liver Cancer,12.076
+ACH-000495,Kidney Cancer,10.599
+ACH-000086,Lung Cancer,11.579
+ACH-000456,Thyroid Cancer,11.573
+ACH-001023,Head and Neck Cancer,12.912
+ACH-000717,Esophageal Cancer,11.559
+ACH-000225,Gastric Cancer,12.359
+ACH-000454,Lung Cancer,10.993
+ACH-000753,Bladder Cancer,9.8568
+ACH-000989,Colon/Colorectal Cancer,10.416
+ACH-000534,Lymphoma,10.804
+ACH-000948,Gastric Cancer,13.419
+ACH-001306,Thyroid Cancer,12.518
+ACH-000548,Head and Neck Cancer,9.5298
+ACH-000485,Gastric Cancer,12.903
+ACH-000711,Breast Cancer,11.596
+ACH-000250,Kidney Cancer,12.287
+ACH-000296,Colon/Colorectal Cancer,12.171
+ACH-000549,Head and Neck Cancer,8.3019
+ACH-000460,Ovarian Cancer,9.8821
+ACH-000219,Melanoma,11.588
+ACH-000681,Lung Cancer,12.95
+ACH-000886,Lung Cancer,12.305
+ACH-000623,Glioma,13.209
+ACH-000652,Pancreatic Cancer,13.288
+ACH-000233,Lymphoma,10.489
+ACH-000843,Lung Cancer,10.218
+ACH-000878,Lung Cancer,12.159
+ACH-000265,Pancreatic Cancer,11.887
+ACH-000444,Lung Cancer,10.986
+ACH-000980,Lung Cancer,12.05
+ACH-000015,Lung Cancer,12.441
+ACH-000904,Lung Cancer,12.243
+ACH-000860,Lung Cancer,10.759
+ACH-001061,Colon/Colorectal Cancer,13.142
+ACH-000295,CML,7.7868
+ACH-000326,CML,7.9053
+ACH-000372,ALL,10.87
+ACH-000101,ALL,9.1383
+ACH-000598,Myeloma,10.517
+ACH-000471,Liver Cancer,10.386
+ACH-000078,Neuroblastoma,7.6268
+ACH-000362,AML,9.7236
+ACH-000648,Lung Cancer,10.567
+ACH-000973,Bladder Cancer,11.55
+ACH-000535,Pancreatic Cancer,10.19
+ACH-000920,CML,8.1466
+ACH-000746,Gastric Cancer,10.827
+ACH-000840,Lung Cancer,12.229
+ACH-000524,Ovarian Cancer,12.487
+ACH-000985,Colon/Colorectal Cancer,12.186
+ACH-000007,Colon/Colorectal Cancer,11.246
+ACH-000013,Ovarian Cancer,11.442
+ACH-000400,Colon/Colorectal Cancer,12.314
+ACH-000958,Colon/Colorectal Cancer,8.3758
+ACH-000545,Bladder Cancer,9.9124
+ACH-000603,Lung Cancer,12.959
+ACH-000138,Pancreatic Cancer,11.484
+ACH-000562,Lung Cancer,12.493
+ACH-000914,Lymphoma,10.544
+ACH-000486,Bladder Cancer,11.399
+ACH-000510,Lung Cancer,12.212
+ACH-000775,Lung Cancer,10.854
+ACH-000076,CML,7.1641
+ACH-000663,Ovarian Cancer,11.532
+ACH-000770,AML,9.247
+ACH-000519,ALL,8.969
+ACH-000636,ALL,10.21
+ACH-000790,Lung Cancer,11.821
+ACH-000302,Endometrial/Uterine Cancer,11.693
+ACH-000325,Gastric Cancer,11.709
+ACH-000664,Lymphoma,10.962
+ACH-001039,Colon/Colorectal Cancer,12.058
+ACH-000056,Lymphoma,10.388
+ACH-000038,Lymphoma,10.559
+ACH-000773,Lymphoma,10.64
+ACH-000889,Myeloma,13.557
+ACH-000627,Lung Cancer,13.549
+ACH-000356,Gastric Cancer,13.841
+ACH-000121,Lung Cancer,10.442
+ACH-000945,Lung Cancer,11.665
+ACH-000159,Kidney Cancer,12.412
+ACH-000409,Ovarian Cancer,13.514
+ACH-000347,Pancreatic Cancer,12.717
+ACH-000965,Endometrial/Uterine Cancer,12.555
+ACH-000618,Head and Neck Cancer,11.984
+ACH-000682,Head and Neck Cancer,11.084
+ACH-000418,Bone Cancer,13.594
+ACH-000266,Pancreatic Cancer,12.89
+ACH-001307,Thyroid Cancer,11.243
+ACH-000392,Lung Cancer,10.913
+ACH-000738,Glioma,12.401
+ACH-000578,Lung Cancer,10.721
+ACH-000667,Lung Cancer,10.915
+ACH-000639,Lung Cancer,11.876
+ACH-000261,Lung Cancer,11.335
+ACH-000670,Lung Cancer,13.29
+ACH-000609,Glioma,11.746
+ACH-000635,Ovarian Cancer,9.4678
+ACH-000483,Liver Cancer,10.223
+ACH-000720,Bladder Cancer,10.538
+ACH-000783,Breast Cancer,12.792
+ACH-000207,Head and Neck Cancer,12.536
+ACH-000941,Endometrial/Uterine Cancer,11.793
+ACH-000625,Liver Cancer,13.715
+ACH-000778,Head and Neck Cancer,12.148
+ACH-000019,Breast Cancer,13.964
+ACH-000368,Glioma,14.8
+ACH-000075,Glioma,14.244
+ACH-000956,Prostate Cancer,11.958
+ACH-000411,Kidney Cancer,10.038
+ACH-001063,Ovarian Cancer,10.802
+ACH-000906,Ovarian Cancer,10.966
+ACH-000624,Breast Cancer,10.514
+ACH-000859,Breast Cancer,9.7899
+ACH-000094,Pancreatic Cancer,11.899
+ACH-000564,Myeloma,10.249
+ACH-000527,Ovarian Cancer,12.446
+ACH-000967,Colon/Colorectal Cancer,10.634
+ACH-000364,Bone Cancer,10.258
+ACH-000905,Bladder Cancer,9.4315
+ACH-000826,Lung Cancer,7.7678
+ACH-000712,Lung Cancer,10.918
+ACH-000731,Lung Cancer,10.779
+ACH-000167,Myeloma,8.7096
+ACH-000108,Pancreatic Cancer,10.682
+ACH-000074,CML,6.7654
+ACH-000823,Esophageal Cancer,9.1352
+ACH-000938,ALL,8.8369
+ACH-000674,Gastric Cancer,8.1748
+ACH-000880,Gastric Cancer,13.347
+ACH-000971,Colon/Colorectal Cancer,12.718
+ACH-000990,Endometrial/Uterine Cancer,13.668
+ACH-000994,Endometrial/Uterine Cancer,12.206
+ACH-000721,Breast Cancer,12.259
+ACH-000652,Pancreatic Cancer,10.534
+ACH-000552,Colon/Colorectal Cancer,13.279
+ACH-000961,Endometrial/Uterine Cancer,12.326
+ACH-000324,Ovarian Cancer,10.915
+ACH-000693,Esophageal Cancer,11.052
+ACH-000957,Colon/Colorectal Cancer,11.906
+ACH-000450,Melanoma,9.4845
+ACH-000851,Lung Cancer,11.689
+ACH-000463,Lung Cancer,12.862
+ACH-000314,Lung Cancer,12.961
+ACH-000012,Lung Cancer,6.2003
+ACH-000996,Endometrial/Uterine Cancer,12.732
+ACH-000946,Endometrial/Uterine Cancer,14.376
+ACH-000984,Endometrial/Uterine Cancer,13.105
+ACH-000004,AML,13.088
+ACH-000909,Endometrial/Uterine Cancer,14.458
+ACH-000507,Gastric Cancer,11.212
+ACH-000521,Lung Cancer,12.721
+ACH-000898,Gastric Cancer,11.77
+ACH-000510,Lung Cancer,12.681
+ACH-000588,Myeloma,9.8194
+ACH-000576,Myeloma,11.366
+ACH-000733,Lung Cancer,11.296
+ACH-000752,Lung Cancer,12.348
+ACH-000465,Melanoma,12.35
+ACH-000223,Breast Cancer,11.591
+ACH-000267,Lymphoma,10.033
+ACH-000045,AML,8.9201
+ACH-000767,Lung Cancer,12.502
+ACH-000050,Myeloma,10.758
+ACH-000937,ALL,9.4689
+ACH-000376,Glioma,12.006
+ACH-000513,Kidney Cancer,12.168
+ACH-000191,Thyroid Cancer,12.364
+ACH-000902,Breast Cancer,11.793
+ACH-000856,Breast Cancer,12.007
+ACH-000699,Breast Cancer,11.919
+ACH-000986,Colon/Colorectal Cancer,10.004
+ACH-000791,Lung Cancer,13.971
+ACH-000715,Head and Neck Cancer,10.431
+ACH-000500,Head and Neck Cancer,11.829
+ACH-000303,Gastric Cancer,11.824
+ACH-000344,Gastric Cancer,11.857
+ACH-000692,Head and Neck Cancer,12.119
+ACH-000318,Esophageal Cancer,10.86
+ACH-000917,Esophageal Cancer,11.226
+ACH-000694,Esophageal Cancer,12.248
+ACH-000723,Head and Neck Cancer,8.1073
+ACH-000836,Head and Neck Cancer,9.9622
+ACH-000762,Head and Neck Cancer,9.1864
+ACH-000445,Glioma,10.51
+ACH-000479,Glioma,12.73
+ACH-000058,Thyroid Cancer,10.359
+ACH-000447,Lung Cancer,11.81
+ACH-000092,Lung Cancer,11.857
+ACH-000186,Lung Cancer,11.883
+ACH-000367,Lung Cancer,13.406
+ACH-000030,Lung Cancer,5.6703
+ACH-000874,ALL,9.2203
+ACH-000748,Bone Cancer,12.201
+ACH-000363,Myeloma,11.916
+ACH-000537,Liver Cancer,10.44
+ACH-000114,Pancreatic Cancer,11.739
+ACH-000890,Lung Cancer,11.481
+ACH-000605,Esophageal Cancer,10.24
+ACH-000452,Esophageal Cancer,10.626
+ACH-000560,Gastric Cancer,12.487
+ACH-000868,Lung Cancer,13.31
+ACH-000942,ALL,10.606
+ACH-000658,Myeloma,10.509
+ACH-000380,Myeloma,9.639
+ACH-000419,Myeloma,11.215
+ACH-000541,Myeloma,9.4624
+ACH-000604,CML,7.9483
+ACH-001129,AML,6.8559
+ACH-000035,Lung Cancer,10.867
+ACH-000800,Lung Cancer,11.94
+ACH-000068,Lymphoma,13.057
+ACH-000517,Pancreatic Cancer,9.6978
+ACH-000316,Liver Cancer,12.727
+ACH-000122,ALL,11.053
+ACH-000197,ALL,9.6968
+ACH-000630,Head and Neck Cancer,11.277
+ACH-000136,Neuroblastoma,12.268
+ACH-000856,Breast Cancer,11.289
+ACH-000632,Melanoma,11.794
+ACH-000806,Lymphoma,10.025
+ACH-000176,Lung Cancer,10.541
+ACH-000321,CML,7.1639
+ACH-000918,ALL,8.7638
+ACH-000297,Lung Cancer,12.045
+ACH-000287,Lymphoma,8.5494
+ACH-000922,ALL,9.6821
+ACH-000459,Kidney Cancer,12.493
+ACH-000574,Ovarian Cancer,11.324
+ACH-000241,CML,7.1035
+ACH-000156,ALL,9.7926
+ACH-000006,AML,9.3776
+ACH-000335,Lung Cancer,7.8032
+ACH-000853,Lung Cancer,9.956
+ACH-000707,Lymphoma,11.977
+ACH-000398,Lymphoma,8.5334
+ACH-000271,Lymphoma,11.671
+ACH-000707,Lymphoma,12.213
+ACH-000656,Lymphoma,10.589
+ACH-000677,Lung Cancer,12.514
+ACH-000657,Ovarian Cancer,11.54
+ACH-000249,Colon/Colorectal Cancer,11.281
+ACH-000193,Myeloma,13.62
+ACH-000809,Esophageal Cancer,10.176
+ACH-000596,Lung Cancer,11.419
+ACH-000453,Myeloma,11.548
+ACH-000666,Lung Cancer,10.402
+ACH-000916,Lung Cancer,10.03
+ACH-000448,Lung Cancer,8.0463
+ACH-000841,Lung Cancer,11.149
+ACH-000231,Glioma,12.481
+ACH-000566,Bladder Cancer,11.66
+ACH-000432,CML,8.05
+ACH-000516,Bone Cancer,12.769
+ACH-000585,Lung Cancer,10.759
+ACH-000966,Ovarian Cancer,9.0048
+ACH-000969,Colon/Colorectal Cancer,12.158
+ACH-000714,Myeloma,8.4894
+ACH-000183,Myeloma,10.956
+ACH-000796,Ovarian Cancer,11.69
+ACH-000032,ALL,9.6581
+ACH-000758,Gastric Cancer,10.206
+ACH-000943,Colon/Colorectal Cancer,11.08
+ACH-000188,Head and Neck Cancer,10.309
+ACH-000974,Endometrial/Uterine Cancer,11.137
+ACH-000338,Lymphoma,15.271
+ACH-000269,Glioma,9.0258
+ACH-000838,Myeloma,12.268
+ACH-000831,Endometrial/Uterine Cancer,11.409
+ACH-000583,Lymphoma,11.78
+ACH-000369,AML,5.7638
+ACH-000365,Lymphoma,11.051
+ACH-000611,Lymphoma,9.8598
+ACH-000998,Colon/Colorectal Cancer,12.615
+ACH-000633,Gastric Cancer,12.843
+ACH-000153,Lung Cancer,11.183
+ACH-000451,Lung Cancer,13.271
+ACH-000221,Liver Cancer,13.212
+ACH-000863,Glioma,12.802
+ACH-000768,Breast Cancer,12.152
+ACH-000439,AML,11.5
+ACH-000881,Melanoma,11.163
+ACH-000804,Neuroblastoma,11.898
+ACH-000845,Lung Cancer,11.396
+ACH-000496,Lung Cancer,11.815
+ACH-000681,Lung Cancer,12.242
+ACH-000311,Lung Cancer,12.355
+ACH-000360,Colon/Colorectal Cancer,10.368
+ACH-000463,Lung Cancer,13.264
+ACH-000617,Ovarian Cancer,11.088
+ACH-000696,Ovarian Cancer,11.209
+ACH-000966,Ovarian Cancer,9.342
+ACH-000218,AML,9.799
+ACH-000473,Bladder Cancer,9.0555
+ACH-000373,AML,8.6971
+ACH-000953,ALL,10.316
+ACH-000963,Colon/Colorectal Cancer,10.91
+ACH-000253,Colon/Colorectal Cancer,12.821
+ACH-000081,AML,11.234
+ACH-000053,Lymphoma,12.345
+ACH-000446,Neuroblastoma,13.053
+ACH-000924,Lung Cancer,12.135
+ACH-000912,Lung Cancer,12.28
+ACH-000638,Lung Cancer,13.731
+ACH-000113,AML,14.212
+ACH-000654,Lymphoma,15.712
+ACH-000960,ALL,15.0
+ACH-000435,Endometrial/Uterine Cancer,11.894
+ACH-000098,Glioma,11.291
+ACH-000972,Endometrial/Uterine Cancer,10.872
+ACH-000546,Head and Neck Cancer,8.9812
+ACH-000671,Liver Cancer,10.111
+ACH-000599,Pancreatic Cancer,11.929
+ACH-000681,Lung Cancer,11.88
+ACH-000280,Ovarian Cancer,11.44
+ACH-000970,Colon/Colorectal Cancer,10.292
+ACH-000553,Lung Cancer,11.665
+ACH-000437,Glioma,11.607
+ACH-000146,AML,10.522
+ACH-000430,Ovarian Cancer,10.342
+ACH-000406,AML,10.795
+ACH-000522,Bladder Cancer,12.412
+ACH-000501,Colon/Colorectal Cancer,11.806
+ACH-000615,Melanoma,13.232
+ACH-000640,Melanoma,13.558
+ACH-000730,Melanoma,12.508
+ACH-000955,Colon/Colorectal Cancer,10.989
+ACH-000532,Colon/Colorectal Cancer,10.647
+ACH-000264,Lung Cancer,11.36
+ACH-000713,Ovarian Cancer,9.6547
+ACH-000563,Lung Cancer,10.503
+ACH-000542,Ovarian Cancer,11.599
+ACH-000724,Bladder Cancer,9.8555
+ACH-000926,Colon/Colorectal Cancer,10.453
+ACH-000213,Pancreatic Cancer,9.9703
+ACH-000915,Melanoma,10.63
+ACH-000685,Pancreatic Cancer,12.052
+ACH-000750,Melanoma,10.68
+ACH-000282,Lung Cancer,11.464
+ACH-000947,Ovarian Cancer,12.268
+ACH-000309,Lung Cancer,10.942
+ACH-000810,Melanoma,12.309
+ACH-000651,Colon/Colorectal Cancer,11.773
+ACH-000484,Kidney Cancer,10.743
+ACH-000374,Breast Cancer,11.369
+ACH-000950,Colon/Colorectal Cancer,9.3869
+ACH-000884,Melanoma,11.984
+ACH-000935,Colon/Colorectal Cancer,12.053
+ACH-000763,Myeloma,10.679
+ACH-000523,Lung Cancer,12.273
+ACH-000219,Melanoma,12.466
+ACH-000205,Pancreatic Cancer,10.936
+ACH-000505,Sarcoma,11.938
+ACH-000719,Ovarian Cancer,9.7586
+ACH-000242,Bladder Cancer,12.377
+ACH-000811,Ovarian Cancer,11.794
+ACH-000647,Esophageal Cancer,11.31
+ACH-000661,Melanoma,13.255
+ACH-000827,Melanoma,12.525
+ACH-000739,Liver Cancer,12.412
+ACH-000270,Pancreatic Cancer,12.397
+ACH-000801,Melanoma,13.062
+ACH-000784,Esophageal Cancer,12.778
+ACH-000787,Lung Cancer,12.418
+ACH-000781,Lung Cancer,12.837
+ACH-000785,Lung Cancer,13.103
+ACH-000911,Gastric Cancer,11.352
+ACH-000093,Pancreatic Cancer,12.082
+ACH-000502,Pancreatic Cancer,12.494
+ACH-000332,Pancreatic Cancer,13.528
+ACH-000097,Breast Cancer,14.247
+ACH-000009,Colon/Colorectal Cancer,10.109
+ACH-000867,Lung Cancer,10.894
+ACH-000803,Lung Cancer,11.195
+ACH-000278,Ovarian Cancer,10.584
+ACH-000925,Lung Cancer,9.9558
+ACH-000936,Ovarian Cancer,12.595
+ACH-000190,AML,10.655
+ACH-000481,Lung Cancer,10.726
+ACH-000378,Lung Cancer,10.933
+ACH-000789,Lung Cancer,10.596
+ACH-000336,AML,10.42
+ACH-000022,Pancreatic Cancer,9.6862
+ACH-000090,Prostate Cancer,14.233
+ACH-000408,Esophageal Cancer,9.7419
+ACH-000579,Melanoma,10.64
+ACH-000425,Melanoma,12.873
+ACH-000415,Head and Neck Cancer,9.3173
+ACH-000305,Esophageal Cancer,10.414
+ACH-000308,Ovarian Cancer,12.23
+ACH-000903,Thyroid Cancer,13.211
+ACH-000173,Endometrial/Uterine Cancer,11.062
+ACH-000769,Lung Cancer,12.219
+ACH-000977,Prostate Cancer,11.66
+ACH-000252,Colon/Colorectal Cancer,12.139
+ACH-000678,Gastric Cancer,11.745
+ACH-000352,Breast Cancer,12.106
+ACH-000298,Lung Cancer,12.208
+ACH-000544,Esophageal Cancer,8.2025
+ACH-000758,Gastric Cancer,12.357
+ACH-000764,Gastric Cancer,11.488
+ACH-000420,Liver Cancer,11.75
+ACH-000813,Lung Cancer,12.063
+ACH-000329,Glioma,13.234
+ACH-000401,Melanoma,11.43
+ACH-000244,Glioma,12.767
+ACH-000982,Colon/Colorectal Cancer,10.294
+ACH-000894,Lung Cancer,10.274
+ACH-000276,Breast Cancer,11.74
+ACH-000672,Lung Cancer,12.824
+ACH-000237,Ovarian Cancer,13.356
+ACH-000993,Endometrial/Uterine Cancer,10.057
+ACH-000645,Lung Cancer,13.604
+ACH-000865,Esophageal Cancer,11.738
+ACH-001113,Lung Cancer,11.168
+ACH-000565,Colon/Colorectal Cancer,11.898
+ACH-000407,Endometrial/Uterine Cancer,12.015
+ACH-000329,Glioma,13.337
+ACH-001233,Lung Cancer,11.414
+ACH-000288,Breast Cancer,12.614
+ACH-000725,Breast Cancer,12.037
+ACH-000404,Melanoma,12.546
+ACH-000637,Esophageal Cancer,10.429
+ACH-000750,Melanoma,11.063
+ACH-000744,Lung Cancer,10.445
+ACH-000491,Colon/Colorectal Cancer,12.209
+ACH-000679,Esophageal Cancer,12.539
+ACH-000383,Esophageal Cancer,12.686
+ACH-000307,Pancreatic Cancer,11.483
+ACH-000468,Pancreatic Cancer,12.066
+ACH-000774,Lung Cancer,11.229
+ACH-000070,ALL,7.0089
+ACH-000697,Lymphoma,11.441
+ACH-000440,Lymphoma,10.655
+ACH-001047,Lung Cancer,11.309
+ACH-000258,Breast Cancer,10.776
+ACH-000877,Lymphoma,9.0668
+ACH-000198,AML,9.2928
+ACH-000162,Lymphoma,9.0795
+ACH-000964,ALL,10.267
+ACH-000944,Lymphoma,10.333
+ACH-000024,Myeloma,10.328
+ACH-000140,Lymphoma,6.7704
+ACH-000226,Lymphoma,10.684
+ACH-000285,Lymphoma,11.51
+ACH-000894,Lung Cancer,10.546
+ACH-000644,Melanoma,13.047
+ACH-000243,Pancreatic Cancer,11.86
+ACH-000821,Myeloma,10.486
+ACH-000756,Glioma,11.623
+ACH-000073,Lymphoma,10.315
+ACH-000349,Breast Cancer,11.894
+ACH-000882,Melanoma,11.739
+ACH-000292,Lung Cancer,11.514
+ACH-001146,Lymphoma,11.717
+ACH-000124,Lymphoma,10.078
+ACH-000158,Lymphoma,11.269
+ACH-000040,Glioma,13.137
+ACH-000508,Lung Cancer,12.675
+ACH-000438,Lung Cancer,11.115
+ACH-001138,Lung Cancer,12.235
+ACH-000558,Glioma,12.338
+ACH-000608,Ovarian Cancer,11.364
+ACH-000919,Gastric Cancer,10.205
+ACH-000396,Bladder Cancer,12.007
+ACH-000900,Lung Cancer,11.162
+ACH-000939,Sarcoma,11.858
+ACH-000571,Glioma,12.299
+ACH-001016,Glioma,12.386
+ACH-000148,Breast Cancer,11.361
+ACH-000069,Lymphoma,8.3413
+ACH-000476,Liver Cancer,11.992
+ACH-000315,Lymphoma,11.876
+ACH-000684,Kidney Cancer,12.296
+ACH-000204,Myeloma,11.539
+ACH-000849,Breast Cancer,10.986
+ACH-000441,Melanoma,9.4087
+ACH-000361,Liver Cancer,13.138
+ACH-001203,Lymphoma,11.694
+ACH-000940,Endometrial/Uterine Cancer,12.288
+ACH-000046,Kidney Cancer,11.99
+ACH-000641,AML,13.223
+ACH-000978,Endometrial/Uterine Cancer,11.274
+ACH-000263,AML,11.539
+ACH-000951,Lung Cancer,13.414
+ACH-000291,Ovarian Cancer,12.821
+ACH-000062,Lung Cancer,12.401
+ACH-001182,ALL,10.58
+ACH-000593,Bladder Cancer,10.624
+ACH-000580,Melanoma,12.789
+ACH-000857,Breast Cancer,9.9605
+ACH-000864,Endometrial/Uterine Cancer,12.011
+ACH-000616,Gastric Cancer,11.325
+ACH-000472,Head and Neck Cancer,11.274
+ACH-000322,Melanoma,11.979
+ACH-000171,Kidney Cancer,11.391
+ACH-000449,Sarcoma,17.233
+ACH-000780,Lung Cancer,12.204
+ACH-000837,Lung Cancer,10.455
+ACH-000704,Ovarian Cancer,11.821
+ACH-000320,Pancreatic Cancer,12.81
+ACH-000018,Bladder Cancer,11.974
+ACH-000716,Thyroid Cancer,11.765
+ACH-000433,Kidney Cancer,13.096
+ACH-000161,Lung Cancer,10.763
+ACH-000749,Lung Cancer,12.268
+ACH-000913,Endometrial/Uterine Cancer,11.462
+ACH-000375,Kidney Cancer,12.169
+ACH-000613,Bone Cancer,12.1
+ACH-000014,Melanoma,11.994
+ACH-000217,Liver Cancer,13.552
+ACH-000988,Endometrial/Uterine Cancer,12.026
+ACH-000745,Myeloma,10.928
+ACH-000688,Ovarian Cancer,11.492
+ACH-000139,Pancreatic Cancer,10.147
+ACH-001318,Liver Cancer,11.947
+ACH-000181,Head and Neck Cancer,10.937
+ACH-000145,Sarcoma,12.296
+ACH-001190,Melanoma,13.85
+ACH-000577,Liver Cancer,11.886
+ACH-000555,Kidney Cancer,10.55
+ACH-000393,Liver Cancer,10.647
+ACH-000620,Liver Cancer,11.271
+ACH-000116,Ovarian Cancer,11.746
+ACH-000091,Ovarian Cancer,12.663
+ACH-000042,Pancreatic Cancer,12.474
+ACH-000422,Liver Cancer,13.181
+ACH-000885,Ovarian Cancer,12.268
+ACH-000896,Bladder Cancer,10.901
+ACH-000137,Glioma,12.393
+ACH-000008,Melanoma,12.06
+ACH-000788,Melanoma,11.585
+ACH-000222,Pancreatic Cancer,11.635
+ACH-000234,Kidney Cancer,12.628
+ACH-000832,Head and Neck Cancer,9.1237
+ACH-000968,Melanoma,12.051
+ACH-000897,Thyroid Cancer,10.839
+ACH-000102,Glioma,12.329
+ACH-000027,Glioma,12.565
+ACH-000931,Melanoma,12.204
+ACH-000475,Liver Cancer,11.758
+ACH-000550,Melanoma,12.095
+ACH-000569,Lung Cancer,12.754
+ACH-000152,Glioma,12.152
+ACH-000023,Pancreatic Cancer,11.084
+ACH-000839,Bladder Cancer,9.4783
+ACH-000149,Neuroblastoma,11.731
+ACH-000592,Glioma,12.352
+ACH-000469,Glioma,13.028
+ACH-000979,Prostate Cancer,11.363
+ACH-000846,Head and Neck Cancer,10.737
+ACH-000066,Lung Cancer,7.4032
+ACH-000067,Glioma,11.189
+ACH-000133,Non-Cancerous,11.027
+ACH-000054,Sarcoma,11.838
+ACH-000734,Liver Cancer,10.068
+ACH-000928,Endometrial/Uterine Cancer,10.87
+ACH-000987,Melanoma,11.884
+ACH-000601,Pancreatic Cancer,11.015
+ACH-000110,Gastric Cancer,8.6743
+ACH-000665,Lung Cancer,9.8412
+ACH-000366,Neuroblastoma,10.673
+ACH-000163,Head and Neck Cancer,11.39
+ACH-000304,Melanoma,12.067
+ACH-001239,Melanoma,12.838
+ACH-000536,Breast Cancer,12.345
+ACH-000457,Kidney Cancer,9.8359
+ACH-000354,Pancreatic Cancer,12.502
+ACH-000120,Neuroblastoma,11.349
+ACH-000043,Non-Cancerous,12.304
+ACH-000793,Gastric Cancer,12.984
+ACH-000709,Kidney Cancer,12.265
+ACH-000622,Glioma,13.176
+ACH-000319,Lung Cancer,11.725
+ACH-000021,Lung Cancer,10.391
+ACH-000235,Pancreatic Cancer,12.525
+ACH-000735,Head and Neck Cancer,10.563
+ACH-000822,Melanoma,11.855
+ACH-000260,Neuroblastoma,11.395
+ACH-000570,Glioma,13.007
+ACH-000402,Lymphoma,11.947
+ACH-000743,Lung Cancer,11.975
+ACH-000002,AML,11.572
+ACH-000118,Pancreatic Cancer,12.467
+ACH-000498,AML,10.716
+ACH-000514,Lung Cancer,12.185
+ACH-000399,Lung Cancer,12.621
+ACH-000203,Neuroblastoma,12.123
+ACH-000751,AML,11.523
+ACH-000112,AML,10.255
+ACH-000387,AML,11.976
+ACH-000649,Kidney Cancer,11.25
+ACH-000157,Lymphoma,8.2613
+ACH-000997,Colon/Colorectal Cancer,10.78
+ACH-000005,AML,11.718
+ACH-000829,Myeloma,10.862
+ACH-000132,Ovarian Cancer,12.245
+ACH-000551,CML,10.182
+ACH-000129,Lung Cancer,12.568
+ACH-000869,Lung Cancer,9.0084
+ACH-000747,Lung Cancer,11.049
+ACH-000416,Lung Cancer,12.554
+ACH-000341,Neuroblastoma,11.614
+ACH-000488,Esophageal Cancer,9.7882
+ACH-000786,Lymphoma,9.6237
+ACH-000061,Lymphoma,11.134
+ACH-000547,Bladder Cancer,12.339
+ACH-000390,Lung Cancer,9.3572
+ACH-000506,Lung Cancer,10.591
+ACH-000434,Lung Cancer,10.545
+ACH-000414,Lung Cancer,11.016
+ACH-000395,Lung Cancer,11.374
+ACH-000343,Lung Cancer,10.105
+ACH-000732,Head and Neck Cancer,10.532
+ACH-000619,Head and Neck Cancer,8.651
+ACH-000614,Melanoma,11.234
+ACH-000195,AML,10.766
+ACH-000581,Gastric Cancer,10.069
+ACH-000048,Ovarian Cancer,12.602
+ACH-000334,Lymphoma,10.029
+ACH-000277,Breast Cancer,11.49
+ACH-000467,Colon/Colorectal Cancer,11.899
+ACH-000180,Non-Cancerous,14.342
+ACH-000929,Lung Cancer,11.343
+ACH-000606,Head and Neck Cancer,9.339
+ACH-000222,Pancreatic Cancer,11.157
+ACH-000478,Liver Cancer,11.911
+ACH-000683,Colon/Colorectal Cancer,11.216
+ACH-000722,Colon/Colorectal Cancer,11.067
+ACH-000155,Pancreatic Cancer,10.905
+ACH-000680,Colon/Colorectal Cancer,11.019
+ACH-000353,Esophageal Cancer,9.183
+ACH-000834,Bladder Cancer,12.138
+ACH-000899,Melanoma,11.3
+ACH-000765,Melanoma,11.004
+ACH-000828,Breast Cancer,11.412
+ACH-000687,Lymphoma,11.277
+ACH-000458,Melanoma,12.841
+ACH-000239,Gastric Cancer,10.663
+ACH-000357,Lymphoma,10.17
+ACH-000151,ALL,9.5027
+ACH-000281,Pancreatic Cancer,12.594
+ACH-000255,Gastric Cancer,12.913
+ACH-000359,Bone Cancer,12.094
+ACH-000220,Lymphoma,9.3607
+ACH-001130,Lymphoma,9.5254
+ACH-000371,Lymphoma,11.3
+ACH-000423,Melanoma,11.76
+ACH-000932,Gastric Cancer,10.867
+ACH-000567,Lymphoma,10.378
+ACH-000059,ALL,9.8901
+ACH-000992,Head and Neck Cancer,12.311
+ACH-000794,Head and Neck Cancer,10.79
+ACH-000228,Head and Neck Cancer,10.335
+ACH-000350,Colon/Colorectal Cancer,11.451
+ACH-000117,Breast Cancer,11.895
+ACH-000096,Rhabdoid ATRT Cancer,11.5
+ACH-000227,Neuroblastoma,13.757
+ACH-000327,Lung Cancer,12.176
+ACH-000493,Liver Cancer,12.257
+ACH-000236,Colon/Colorectal Cancer,11.454
+ACH-000883,Glioma,13.089
+ACH-000979,Prostate Cancer,12.015
+ACH-000115,Prostate Cancer,12.509
+ACH-000507,Gastric Cancer,10.262
+ACH-000844,Lung Cancer,11.48
+ACH-000835,Sarcoma,11.202
+ACH-000150,Lung Cancer,8.2566
+ACH-000861,Lung Cancer,11.889
+ACH-000403,Colon/Colorectal Cancer,10.21
+ACH-001151,Ovarian Cancer,9.4997
+ACH-000655,Glioma,10.968
+ACH-000273,Glioma,10.653
+ACH-000317,Kidney Cancer,12.971
+ACH-000232,Glioma,12.401
+ACH-000698,Lung Cancer,11.43
+ACH-000954,Endometrial/Uterine Cancer,11.374
+ACH-000650,Melanoma,11.394
+ACH-000858,Lung Cancer,13.508
+ACH-000621,Breast Cancer,10.008
+ACH-000892,Lung Cancer,10.373
+ACH-000962,Ovarian Cancer,11.395
+ACH-000428,Kidney Cancer,9.6526
+ACH-000771,Head and Neck Cancer,10.435
+ACH-000518,Head and Neck Cancer,8.9626
+ACH-000511,Lung Cancer,12.113
+ACH-000107,Pancreatic Cancer,12.229
+ACH-000530,Lung Cancer,12.068
+ACH-000706,Lung Cancer,10.226
+ACH-001084,Colon/Colorectal Cancer,12.025
+ACH-000825,Lung Cancer,11.078
+ACH-000607,Rhabdoid ATRT Cancer,11.837
+ACH-000777,Esophageal Cancer,11.303
+ACH-000824,Esophageal Cancer,10.67
+ACH-000754,Lymphoma,9.8997
+ACH-000934,Breast Cancer,12.496
+ACH-000879,Endometrial/Uterine Cancer,11.651
+ACH-000388,Lymphoma,10.569
+ACH-000504,Glioma,11.967
+ACH-000466,Gastric Cancer,10.05
+ACH-000503,Head and Neck Cancer,11.716
+ACH-000487,AML,10.536
+ACH-000653,Myeloma,10.508
+ACH-000728,ALL,9.106
+ACH-000126,Glioma,11.505
+ACH-000426,Myeloma,9.7847
+ACH-000855,Esophageal Cancer,11.868
+ACH-000065,AML,11.223
+ACH-000417,Pancreatic Cancer,11.697
+ACH-000736,Gastric Cancer,10.894
+ACH-000959,Colon/Colorectal Cancer,10.215
+ACH-000147,Breast Cancer,11.733
+ACH-000381,Colon/Colorectal Cancer,10.815
+ACH-000726,Esophageal Cancer,11.43
+ACH-000626,Myeloma,11.105
+ACH-000323,Glioma,11.428
+ACH-000927,Breast Cancer,9.728
+ACH-000123,Ovarian Cancer,9.9206
+ACH-000981,ALL,10.741
+ACH-000082,Bone Cancer,12.266
+ACH-000755,Breast Cancer,11.3
+ACH-000178,Pancreatic Cancer,10.152
+ACH-000602,AML,10.605
+ACH-000893,Lung Cancer,11.72
+ACH-000017,Breast Cancer,11.406
+ACH-000201,Rhabdoid ATRT Cancer,11.301
+ACH-000557,AML,10.603
+ACH-000847,Gastric Cancer,11.291
+ACH-000477,Melanoma,13.017
+ACH-000194,Non-Cancerous,11.382
+ACH-000306,Non-Cancerous,12.76
+ACH-000509,Lymphoma,10.89
+ACH-000888,Lung Cancer,12.089
+ACH-000238,Head and Neck Cancer,11.775
+ACH-000154,Non-Cancerous,11.037
+ACH-000910,Breast Cancer,11.431
+ACH-000410,Bone Cancer,11.968
+ACH-000741,Bladder Cancer,8.3536
+ACH-000431,Lung Cancer,11.711
+ACH-000782,ALL,8.0735
+ACH-000229,Non-Cancerous,11.487
+ACH-000862,Bladder Cancer,12.057
+ACH-000189,Kidney Cancer,12.587
+ACH-000312,Neuroblastoma,11.135
+ACH-000248,Breast Cancer,11.088
+ACH-000202,Colon/Colorectal Cancer,10.879
+ACH-000876,Breast Cancer,12.308
+ACH-000060,Pancreatic Cancer,11.558
+ACH-000160,Rhabdoid ATRT Cancer,11.378
+ACH-001020,Rhabdoid ATRT Cancer,9.4813
+ACH-001274,Sarcoma,11.936
+ACH-001275,Sarcoma,10.722
+ACH-000597,Rhabdoid ATRT Cancer,11.37
+ACH-001277,Sarcoma,11.359

@@ -1,0 +1,56 @@
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(ggrepel)
+
+# Загрузка данных
+data <- read_csv("../mean_gene_z-score_depscore_data/mean_gene_z-score_depscore_all.csv")
+
+# Удаляем строки с NA
+data <- na.omit(data)
+
+# Переименовываем столбцы
+colnames(data) <- c("Gene", "Depscore", "Zscore")
+
+# Выделяем гены для подсветки
+highlight_genes <- c("FLT3", "BCL2", "RUNX1", "GATA1", "KIT", "JAK2", "NOTCH1", "TAL1", "TLX3",
+                     "HOXA9", "HOXA10", "TLX1", "MEF2D", "KMT2A", "IL3RA", "ETV1", "ETV4", "ETV5")
+
+# Отмечаем гены для подсветки
+data$highlight <- ifelse(data$Gene %in% highlight_genes, "highlight", "normal")
+
+# Построение графика с отсечками
+plot <- ggplot(data, aes(x = Zscore, y = Depscore)) +
+  # Синий фон в нижнем левом квадранте
+  annotate("rect", xmin = -Inf, xmax = -0.5, ymin = -Inf, ymax = -0.15,
+           fill = "#00bfff", alpha = 0.3) +
+  
+  geom_point(data = subset(data, highlight == "normal"),
+             color = "#d8c2ff", size = 5, shape = 16, alpha = 0.9) +
+  geom_point(data = subset(data, highlight == "highlight"),
+             color = "red", size = 5, shape = 16, alpha = 0.9) +
+  geom_vline(xintercept = -0.5, color = "blue", linetype = "dashed", size = 0.5) +
+  geom_hline(yintercept = -0.15, color = "blue", linetype = "dashed", size = 0.5) +
+  geom_label_repel(data = subset(data, highlight == "highlight"),
+                   aes(label = Gene), 
+                   color = "red", size = 4, box.padding = 0.5, max.overlaps = 50,
+                   fill = "white") +
+  scale_x_continuous(breaks = seq(-3, 2, by = 0.5)) +
+  scale_y_continuous(breaks = seq(-2.6, 0.8, by = 0.2)) +
+  labs(x = "Z-score", y = "Depscore") +
+  ggtitle("ALL") +
+  theme_minimal(base_size = 15) +
+  theme(
+    axis.line = element_line(size = 1.5),
+    axis.title = element_text(size = 20),
+    axis.text = element_text(size = 16),
+    plot.title = element_text(size = 24, hjust = 0.5),
+    legend.position = "none",
+    panel.background = element_rect(fill = "white", color = NA),
+    plot.background = element_rect(fill = "white", color = NA)
+  )
+
+
+# Сохранение графика
+ggsave("./all_lines.png",
+       plot = plot, width = 8, height = 8, dpi = 300, units = "in")
